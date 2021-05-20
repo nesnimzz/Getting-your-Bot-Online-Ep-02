@@ -20,5 +20,5 @@ async def on_disconnect():
 
 
 #run the bot
-client.run("ODQzOTcxMDYyMjY1NDEzNjcz.YKLnTQ.mxXnXznOAUpvHRCqmHwMPPN2THQ")
+client.run("TOKEN")
 
